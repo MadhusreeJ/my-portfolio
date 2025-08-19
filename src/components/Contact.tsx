@@ -34,7 +34,7 @@ const Contact = () => {
                     <a href="https://github.com/MadhusreeJ" target="_blank" rel="noreferrer" aria-label="GitHub">
                       <img src={github} alt="GitHub" className="icon small" />
                     </a>
-                    <a href="https://drive.google.com/file/d/1apYtmVkznY-ZGSRH_YaegQOlZg3sltjy/view?usp=drive_link" target="_blank" rel="noreferrer" aria-label="Resume">
+                    <a href="https://drive.google.com/file/d/1P58_sdiuEq6dV9-OV8FWcl4tGkUCqEIJ/view?usp=sharing" target="_blank" rel="noreferrer" aria-label="Resume">
                       <img src={resume} alt="resume" className="icon mid" />
                     </a>
                   </div>
